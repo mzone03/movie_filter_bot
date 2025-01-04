@@ -850,15 +850,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "JoinUᴘᴅᴀᴛᴇs":
         buttons = [[
-            InlineKeyboardButton('🫵 SUBSCRIBE 🫵', url="https://youtube.com/@hearttheft81"),
+            InlineKeyboardButton('🫵 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🫵', url="https://t.me/movie_zone_offl"),
         ],[
-            InlineKeyboardButton('🍀 Movie Search Group 🍀', url="https://t.me/+ia1t2RXlWQw4OTI1")
+            InlineKeyboardButton('🍀 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🍀', url="https://t.me/movie_zone_oficial3")
         ],[
-            InlineKeyboardButton('🍂 Movie channel 🍂', url="https://t.me/ccmtamil")
+            InlineKeyboardButton('🍂 ᴡᴇᴇᴋʟʏ ɴᴇᴡ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ 🍂', url="https://t.me/+oj_AyWpZIylhZGI9")
         ],[
-            InlineKeyboardButton('🍁 Tamil Chat Group 🍁', url="https://t.me/ccmtamilchat")
+            InlineKeyboardButton('🍁 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ 🍁', url="https://t.me/ccmtamilchat")
         ],[
-            InlineKeyboardButton('🥀 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🥀', url="https://t.me/cc_support_group"),
+            InlineKeyboardButton('🥀 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ ² 🥀', url="https://t.me/+b49zUP4zswUzZjU1"),
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
@@ -881,7 +881,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "free":
         buttons = [[
-            InlineKeyboardButton('☆📸 𝙎𝙚𝙣𝙙 𝙨𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩 📸☆', url=f'https://t.me/HeartThieft_bot')
+            InlineKeyboardButton('☆📸 𝙎𝙚𝙣𝙙 𝙨𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩 📸☆', url=f'https://t.me/mz_contact_bot')
         ],[
             InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
@@ -920,7 +920,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "other":
         buttons = [[
-            InlineKeyboardButton('☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗢𝘄𝗻𝗲𝗿 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗠𝗼𝗿𝗲', url=f'https://t.me/HeartThieft_bot')
+            InlineKeyboardButton('☎️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗢𝘄𝗻𝗲𝗿 𝗧𝗼 𝗞𝗻𝗼𝘄 𝗠𝗼𝗿𝗲', url=f'https://t.me/mz_contact_bot')
         ],[
             InlineKeyboardButton('• 𝗕𝗮𝗰𝗸 •', callback_data='free')
         ]]
