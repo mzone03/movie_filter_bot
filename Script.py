@@ -277,7 +277,7 @@ User - {}"""
  ❏ 𝟹𝟼𝟶₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
 🆔 ᴜᴘɪ ɪᴅ ➩ <code>moviezoneoffl03@ybl</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/463520b5da7e8be9306a3-8bf4b731e91c0ba7fa.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/rJg.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
