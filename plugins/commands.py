@@ -402,7 +402,7 @@ async def start(client:Client, message):
         file_caption=files.caption
     )
     btn = [[
-        InlineKeyboardButton("🚀 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ", callback_data=f'https://t.me/+gSPuUmv0KNVjM2Y1')
+        InlineKeyboardButton("🚀 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ", url=f'https://t.me/+gSPuUmv0KNVjM2Y1')
     ], [
         InlineKeyboardButton('📌 Jᴏɪɴ Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 📌', url=f'https://t.me/movie_zone_oficial3')
     ]]
