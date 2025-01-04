@@ -13,32 +13,32 @@ def is_enabled(value, default):
 #---------------------------------------------------------------
 #---------------------------------------------------------------         ,
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '22977776'))
-API_HASH = environ.get('API_HASH', '2ac7223d720bdeec757cbc88ced57224')
-BOT_TOKEN = environ.get('BOT_TOKEN', '7041695823:AAHSLcMgPh9iYDlghYXOKBoG75WaUiFhAUw')
+API_ID = int(environ.get('API_ID', '20312656'))
+API_HASH = environ.get('API_HASH', '165a35acd66b94f5ff5f03265067e6d7')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7762100121:AAF2Bb6at6CM-hWR6CUDTf-2RnsbH5kL3So')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6762558871').split()]
-USERNAME = environ.get('USERNAME', "https://t.me/Heart_thieft") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002391269521'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Movieprovidergroups')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002480489590').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5523300151').split()]
+USERNAME = environ.get('USERNAME', "https://t.me/the_user_isbusy") # ADMIN USERNAME
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002373457817'))
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+gSPuUmv0KNVjM2Y1')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002243420696').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://jeevanantham8157:1055221@ajifilterbot.ut3sr.mongodb.net/?retryWrites=true&w=majority&appName=Ajifilterbot")
-DATABASE_NAME = environ.get('DATABASE_NAME', "heartfilter")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://mzoneoffl03:Moviezone@moviezone.lyi1y.mongodb.net/?retryWrites=true&w=majority&appName=Moviezone")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Moviezone")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #----------- There will be channel id add in all these ---------
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002479542941'))  # set shortner log channel
-DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002494713645')) # The movie you upload in it will be deleted from the bot.
-LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002393358982'))
-auth_channel = environ.get('AUTH_CHANNEL', '-1002181741528')
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002329218829'))
-request_channel = environ.get('REQUEST_CHANNEL', '-1002369002372') # If anyone sends a request message to your bot, you will get it in this channel.
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002387499459')) # 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/cc_support_group') #Support group link ( make sure bot is admin )
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002354576772'))  # set shortner log channel
+DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002392990077')) # The movie you upload in it will be deleted from the bot.
+LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002369529652'))
+auth_channel = environ.get('AUTH_CHANNEL', '-1002092878294')
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002420990329'))
+request_channel = environ.get('REQUEST_CHANNEL', '-1002318108846') # If anyone sends a request message to your bot, you will get it in this channel.
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002415010424')) # 
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+_Mj-0Idk06s0OTg1') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
@@ -69,10 +69,10 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://envs.sh/Sau.jpg https://envs.sh/Sat.jpg https://envs.sh/Sai.jpg https://envs.sh/Sab.jpg https://envs.sh/Saq.jpg https://envs.sh/SaS.jpg https://envs.sh/SaW.jpg https://envs.sh/SaB.jpg https://envs.sh/SaI.jpg https://envs.sh/San.jpg https://envs.sh/SaT.jpg https://envs.sh/Sap.jpg')).split()
-FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
+START_IMG = (environ.get('START_IMG', 'https://graph.org/file/a3e3e813481698033f747-59f5fda0037fccaed3.jpg')).split()
+FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://graph.org/file/b4f5b1df59c1872e6d83f-bd60ca4e1018f77a2d.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
-PAYPICS = (environ.get('PAYPICS', 'https://i.ibb.co/LY0LbqQ/image.jpg')).split()
+PAYPICS = (environ.get('PAYPICS', 'https://graph.org/file/2a9dbfc4c38333268be83-e19e99b9af7f6a0e92.jpg')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/55a5392f88ec5a4bd3379.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡"]
 #---------------------------------------------------------------
