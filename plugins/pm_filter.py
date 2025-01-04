@@ -856,7 +856,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('🍂 ᴡᴇᴇᴋʟʏ ɴᴇᴡ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ 🍂', url="https://t.me/+oj_AyWpZIylhZGI9")
         ],[
-            InlineKeyboardButton('🍁 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ 🍁', url="https://t.me/ccmtamilchat")
+            InlineKeyboardButton('🍁 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ 🍁', url="https://t.me/+gSPuUmv0KNVjM2Y1")
         ],[
             InlineKeyboardButton('🥀 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ ² 🥀', url="https://t.me/+b49zUP4zswUzZjU1"),
         ],[
