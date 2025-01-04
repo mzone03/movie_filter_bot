@@ -402,9 +402,9 @@ async def start(client:Client, message):
         file_caption=files.caption
     )
     btn = [[
-        InlineKeyboardButton("🚀 Fᴀꜱᴛ Dᴏᴡɴʟᴏᴀᴅ / Wᴀᴛᴄʜ Oɴʟɪɴᴇ 🖥️", callback_data=f'stream#{file_id}')
+        InlineKeyboardButton("🚀 ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ", callback_data=f'https://t.me/+gSPuUmv0KNVjM2Y1')
     ], [
-        InlineKeyboardButton('📌 Jᴏɪɴ Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 📌', url=f'https://t.me/CCMTamil')
+        InlineKeyboardButton('📌 Jᴏɪɴ Uᴘᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 📌', url=f'https://t.me/movie_zone_oficial3')
     ]]
     toDel=await client.send_cached_media(
         chat_id=message.from_user.id,
