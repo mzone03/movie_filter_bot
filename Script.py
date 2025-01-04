@@ -218,7 +218,7 @@ User - {}"""
 
 📖 𝗦ᴛᴏʀʏ: {plot}
 <b><blockquote>⚠️ ɴᴏᴛᴇ : ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ ᴀʟʟ ғɪʟᴇs ɪɴ ᴅɪғғᴇʀᴇɴᴛ ǫᴜᴀʟɪᴛʏ ᴀɴᴅ ʟᴀɴɢᴜᴀɢᴇs ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴ ᴀɴᴅ sᴇᴀʀᴄʜ ᴛʜᴇʀᴇ</blockquote></b>
-<blockquote>🌿 ©️ Uᴘʟᴏᴀᴅ ʙʏ : <a href='https://t.me/Heart_thieft'>ʜᴇᴀʀᴛ_ᴛʜɪᴇꜰ</a></blockquote></b>"""
+<blockquote>🌿 ©️ Uᴘʟᴏᴀᴅ ʙʏ : <a href='https://t.me/mz_contact_bot'>𝐌𝐨𝐧𝐤𝐞𝐲 𝐃. 𝐋𝐮𝐟𝐟𝐲</a></blockquote></b>"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
 
@@ -258,7 +258,7 @@ User - {}"""
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/HeartThieft_bot'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/mz_contact_bot'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -373,9 +373,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/HeartThieft_bot">ʜᴇᴀʀᴛ_ᴛʜɪᴇꜰ</a></blockquote>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/mz_contact_bot">ᴍᴜɢɪᴡᴀʀᴀ</a></blockquote>
 
-developer : Mr.ʜᴇᴀʀᴛ_ᴛʜɪᴇꜰ
+developer : ᴍᴜɢɪᴡᴀʀᴀ
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
@@ -404,4 +404,4 @@ developer : Mr.ʜᴇᴀʀᴛ_ᴛʜɪᴇꜰ
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs 
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
-Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/mz_contact_bot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/HeartThieft_bot">ᴀᴅᴍɪɴ</a></b>"""
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/mz_contact_bot">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/mz_contact_bot">ᴀᴅᴍɪɴ</a></b>"""
